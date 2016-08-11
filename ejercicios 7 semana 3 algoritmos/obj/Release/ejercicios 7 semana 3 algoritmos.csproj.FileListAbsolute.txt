@@ -1,0 +1,6 @@
+C:\Users\jehu\documents\visual studio 2012\Projects\ejercicios 3 semana 3 algoritmos\ejercicios 3 semana 3 algoritmos\bin\Release\ejercicios 3 semana 3 algoritmos.exe.config
+C:\Users\jehu\documents\visual studio 2012\Projects\ejercicios 3 semana 3 algoritmos\ejercicios 3 semana 3 algoritmos\bin\Release\ejercicios 3 semana 3 algoritmos.exe
+C:\Users\jehu\documents\visual studio 2012\Projects\ejercicios 3 semana 3 algoritmos\ejercicios 3 semana 3 algoritmos\bin\Release\ejercicios 3 semana 3 algoritmos.pdb
+C:\Users\jehu\documents\visual studio 2012\Projects\ejercicios 3 semana 3 algoritmos\ejercicios 3 semana 3 algoritmos\obj\Release\ejercicios 7 semana 3 algoritmos.csprojResolveAssemblyReference.cache
+C:\Users\jehu\documents\visual studio 2012\Projects\ejercicios 3 semana 3 algoritmos\ejercicios 3 semana 3 algoritmos\obj\Release\ejercicios 3 semana 3 algoritmos.exe
+C:\Users\jehu\documents\visual studio 2012\Projects\ejercicios 3 semana 3 algoritmos\ejercicios 3 semana 3 algoritmos\obj\Release\ejercicios 3 semana 3 algoritmos.pdb

@@ -1,0 +1,3 @@
+C:\Users\jehu\documents\visual studio 2012\Projects\ejercicios 3 semana 3 algoritmos\ejercicios 3 semana 3 algoritmos\bin\Debug\ejercicios 3 semana 3 algoritmos.exe.config
+C:\Users\jehu\documents\visual studio 2012\Projects\ejercicios 3 semana 3 algoritmos\ejercicios 3 semana 3 algoritmos\obj\Debug\ejercicios 3 semana 3 algoritmos.exe
+C:\Users\jehu\documents\visual studio 2012\Projects\ejercicios 3 semana 3 algoritmos\ejercicios 3 semana 3 algoritmos\obj\Debug\ejercicios 3 semana 3 algoritmos.pdb
